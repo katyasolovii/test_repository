@@ -1,0 +1,1 @@
+A local repository is a copy of the entire project's history and codebase that resides on a developer's machine. When a developer initializes a local repository, Git sets up the necessary infrastructure to track changes, branches, and commits within the project.
